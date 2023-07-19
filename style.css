@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(79, 104, 233);
+    font-family: 'Nunito', sans-serif;
+    color: rgb(232, 232, 220);
+}
+
+img{
+    width: 20%;
+    border-radius: 10px;
+}
+.nasa1{
+    width: 30%;
+}
+.astrobiologia{
+    font-size: 40px;
+}
+.p.origen{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tittle-misiones{
+    color: rgb(7, 28, 129);
+}
+.tittle-universo{
+    font-size: 20px;
+}
